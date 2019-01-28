@@ -1,5 +1,5 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -30,6 +30,8 @@
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -59,6 +61,7 @@
 \suppress_date false
 \justification true
 \use_refstyle 1
+\use_minted 0
 \index Index
 \shortcut idx
 \color #008000
@@ -71,7 +74,10 @@
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 2
 \paperpagestyle default
@@ -386,7 +392,6 @@ So , due to my disease which is a form of Paranoid Scizophrenia , i can
  Gandhiji claimed that every person in the world is one of these three types
  of monkeys and has one of these special gifts which connects them to God
  and after 35 years of age everybody has old age protection from god's side.
- 
 \end_layout
 
 \begin_layout Standard
@@ -425,7 +430,6 @@ Now I will tell what I have seen , then later I'll tell the fantasy.
 \begin_layout Standard
 Million dollar question? What happens to US when these blackholes consume
  everything.
- 
 \end_layout
 
 \begin_layout Standard
@@ -635,7 +639,6 @@ In 2nd 8 billion tigers and tigresses, all of the tigers and tigresses are
 
 \begin_layout Standard
 In the Kali one , she looks like priyanka chopra.
- 
 \end_layout
 
 \begin_layout Standard
@@ -650,8 +653,15 @@ Then there is a 13 member family , where one boy is born at the 7th place
  Now there was a very massive operation which took place when that guy killed
  the girl and the tiger and implanted them in his body.
  It was a perfect operation.
- That guy is dil and there is a floor also where he meditated and that was
- also dil.
+ That guy is 
+\begin_inset Quotes eld
+\end_inset
+
+dil
+\begin_inset Quotes erd
+\end_inset
+
+ and there is a floor also where he meditated and that was also dil.
  ( It's the heart in hindi ).
  Had that person sinned or not is not known but he is the normal living
  thing we see ourselves and around us.
@@ -1195,6 +1205,7 @@ Introduction
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.lhup.edu"
+literal "true"
 
 \end_inset
 
@@ -3366,6 +3377,7 @@ The area under a force – time graph gives us the impulse of the force applied
 \begin_inset CommandInset citation
 LatexCommand cite
 key "physicsnet.co.uk"
+literal "true"
 
 \end_inset
 
@@ -3389,6 +3401,7 @@ The change in the momentum of a system (or the impulse delivered by the
 \begin_inset CommandInset citation
 LatexCommand cite
 key "pa.msu.edu"
+literal "true"
 
 \end_inset
 
@@ -3506,6 +3519,7 @@ Impulse graphs ( A Case Study)
 \begin_inset CommandInset citation
 LatexCommand cite
 key "bbc.co.uk"
+literal "true"
 
 \end_inset
 
@@ -3625,6 +3639,7 @@ Static Friction
 \begin_inset CommandInset citation
 LatexCommand cite
 key "hyperphysics.phy-astr.gsu.edu"
+literal "true"
 
 \end_inset
 
@@ -4264,6 +4279,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "physicsforums.com"
+literal "true"
 
 \end_inset
 
@@ -4304,6 +4320,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "physicstutorials.org"
+literal "true"
 
 \end_inset
 
@@ -5334,6 +5351,7 @@ Refer to the following information for the next thirteen questions.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "dev.physicslab.org"
+literal "true"
 
 \end_inset
 
@@ -6244,6 +6262,7 @@ The graph of position verse time is a sine wave with a possible phase shift.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "ipodphysics.com"
+literal "true"
 
 \end_inset
 
@@ -10474,6 +10493,7 @@ Mathematical treatment of charging and discharging a capacitor
 \begin_inset CommandInset citation
 LatexCommand cite
 key "schoolphysics.co.uk"
+literal "true"
 
 \end_inset
 
@@ -11350,6 +11370,7 @@ Graphs for convex and concave lenses
 \begin_inset CommandInset citation
 LatexCommand cite
 key "schoolphysics.co.uk"
+literal "true"
 
 \end_inset
 
@@ -13583,6 +13604,8 @@ The Constraint equation
 \begin_inset CommandInset index_print
 LatexCommand printindex
 type "idx"
+name "Index"
+literal "true"
 
 \end_inset
 
